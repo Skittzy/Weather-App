@@ -1,4 +1,5 @@
-const weatherApiKey = '96644debc92617f68e34baefc12f33aa'
+const weatherApiKey = //add your API KEY here
+
 // // Logika za samo 1 grad
 // const cityInput = 'skopje'
 
